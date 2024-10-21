@@ -1,0 +1,14 @@
+C:\numerictypes\bin\Debug\net7.0\numerictypes.exe
+C:\numerictypes\bin\Debug\net7.0\numerictypes.deps.json
+C:\numerictypes\bin\Debug\net7.0\numerictypes.runtimeconfig.json
+C:\numerictypes\bin\Debug\net7.0\numerictypes.dll
+C:\numerictypes\bin\Debug\net7.0\numerictypes.pdb
+C:\numerictypes\obj\Debug\net7.0\numerictypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\numerictypes\obj\Debug\net7.0\numerictypes.AssemblyInfoInputs.cache
+C:\numerictypes\obj\Debug\net7.0\numerictypes.AssemblyInfo.cs
+C:\numerictypes\obj\Debug\net7.0\numerictypes.csproj.CoreCompileInputs.cache
+C:\numerictypes\obj\Debug\net7.0\numerictypes.dll
+C:\numerictypes\obj\Debug\net7.0\refint\numerictypes.dll
+C:\numerictypes\obj\Debug\net7.0\numerictypes.pdb
+C:\numerictypes\obj\Debug\net7.0\numerictypes.genruntimeconfig.cache
+C:\numerictypes\obj\Debug\net7.0\ref\numerictypes.dll
